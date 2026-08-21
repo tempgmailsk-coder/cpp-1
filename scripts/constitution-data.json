@@ -1,0 +1,313 @@
+{
+  "title": "Absolute Constitution of the Common People's Party (CPP)",
+  "version": "Version 1.0",
+  "tagline": "Defined Responsibility • Limited Power • Continuous Public Accountability",
+  "chapters": [
+    {
+      "no": 1,
+      "title": "Name, Emblem and Flag",
+      "articles": [
+        {
+          "no": "1.1",
+          "title": "Name of the Party",
+          "content": "The Party shall be known as the Common People's Party, abbreviated as CPP. This Constitution is the Absolute Constitution of the Common People's Party and is the supreme governance document of the Party."
+        },
+        {
+          "no": "1.2",
+          "title": "Emblem",
+          "content": "The emblem of the Party is a sitting cat. The emblem shall be used in accordance with the guidelines issued by the authorized constitutional authority."
+        },
+        {
+          "no": "1.3",
+          "title": "Flag",
+          "content": "The flag of the Party is a horizontal white-and-black flag. The flag symbolizes the Party's commitment to transparency and institutional discipline."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Principles",
+      "articles": [
+        {
+          "no": "2.1",
+          "title": "Defined Responsibility",
+          "content": "Every office holder in the Party shall have a clearly defined responsibility, as set out in this Constitution. No office holder shall exercise authority beyond the responsibility defined for that office."
+        },
+        {
+          "no": "2.2",
+          "title": "Limited Power",
+          "content": "All power within the Party is limited. Every constitutional office is bounded by the provisions of this Constitution, and no individual office shall accumulate powers that belong to other constitutional offices."
+        },
+        {
+          "no": "2.3",
+          "title": "Continuous Public Accountability",
+          "content": "Office holders and bodies of the Party are continuously accountable to the members and to the public. Records, decisions and procedures shall be maintained so that accountability can be verified."
+        },
+        {
+          "no": "2.4",
+          "title": "Purpose of this Constitution",
+          "content": "This Constitution serves as the comprehensive operational and governance framework of the Party. It defines the organizational structure, the constitutional positions at the national and state levels, the appointment and electoral methods, and the accountability obligations of every office holder."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Membership",
+      "articles": [
+        {
+          "no": "3.1",
+          "title": "Eligibility for Membership",
+          "content": "Any person who accepts the principles of the Party and this Constitution, and who meets the requirements laid down in the internal rules, may apply for membership of the Party."
+        },
+        {
+          "no": "3.2",
+          "title": "Registration and Verification",
+          "content": "An applicant shall register with accurate personal information and shall provide identity verification documents. The administration shall verify the identity and particulars of the applicant before the membership record is confirmed."
+        },
+        {
+          "no": "3.3",
+          "title": "Member ID",
+          "content": "Every member is assigned a unique Member ID upon registration. The Member ID is used in all official records of the Party."
+        },
+        {
+          "no": "3.4",
+          "title": "Rights of Members",
+          "content": "Members have the right to participate in the constitutional processes of the Party, to apply for constitutional positions for which they are eligible, to receive official communications, and to seek accountability of office holders in accordance with this Constitution."
+        },
+        {
+          "no": "3.5",
+          "title": "Duties of Members",
+          "content": "Members shall follow this Constitution and the internal rules of the Party, provide accurate information, and uphold the reputation and discipline of the Party."
+        },
+        {
+          "no": "3.6",
+          "title": "Suspension and Termination of Membership",
+          "content": "Membership may be suspended or terminated by the authorized constitutional authority, after due procedure, for violations of this Constitution or the internal rules. A record of such action and its reasons shall be maintained."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Organizational Structure",
+      "articles": [
+        {
+          "no": "4.1",
+          "title": "Levels of the Organization",
+          "content": "The Party is organized at the National Level and the State Level. Each level operates under the provisions of this Constitution."
+        },
+        {
+          "no": "4.2",
+          "title": "State Structures",
+          "content": "State-level structures replicate the national structure where applicable. State-level constitutional positions correspond to the national positions, applied to the respective state."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "National Level",
+      "articles": [
+        {
+          "no": "5.1",
+          "title": "National President",
+          "content": "The National President is the foremost constitutional office of the Party. The National President is selected through an electoral college consisting of the sitting CPP Members of Parliament and the 35 National Secretaries. The National President exercises the powers and responsibilities defined in this Constitution."
+        },
+        {
+          "no": "5.2",
+          "title": "National Chairperson",
+          "content": "The National Chairperson is appointed through a constitutional process requiring consensus between the National President and the National Party Leader. Where consensus cannot be reached, the fallback mechanism specified in this Constitution applies."
+        },
+        {
+          "no": "5.3",
+          "title": "National Party Leader",
+          "content": "The National Party Leader is elected by a majority vote of the sitting CPP Members of Parliament. Before the Party has sitting Members of Parliament, the provisional founder-appointed arrangement specified in this Constitution applies."
+        },
+        {
+          "no": "5.4",
+          "title": "National Committee",
+          "content": "The National Committee is the constitutional body responsible for the supervision and coordination of the affairs of the Party at the national level, in accordance with this Constitution."
+        },
+        {
+          "no": "5.5",
+          "title": "National Treasurer",
+          "content": "The National Treasurer is responsible for the financial records and financial accountability of the Party, in accordance with this Constitution and the internal financial rules."
+        },
+        {
+          "no": "5.6",
+          "title": "State Presidents",
+          "content": "The State Presidents lead the Party at the State Level. The provisions applicable to the National President apply to the State Presidents in the respective states, as replicated by the state-level structure."
+        },
+        {
+          "no": "5.7",
+          "title": "National Secretaries",
+          "content": "The Party has 35 National Secretaries. The National Secretaries cover the functional operational sectors of the Party and form part of the electoral college for the selection of the National President, as provided in this Constitution."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "The 35 National Secretaries",
+      "articles": [
+        {
+          "no": "6.1",
+          "title": "Establishment of the 35 National Secretaries",
+          "content": "The Constitution specifies 35 National Secretaries covering the functional operational sectors of the Party. Each National Secretary has defined responsibility for their sector."
+        },
+        {
+          "no": "6.2",
+          "title": "Operational Sectors",
+          "content": "The functional operational sectors include, among others, digital assets, training, research and logistics, together with the other sectors enumerated in the internal operational schedule of the Party."
+        },
+        {
+          "no": "6.3",
+          "title": "Responsibilities of National Secretaries",
+          "content": "Each National Secretary shall operate their sector, maintain its records, and report to the constitutional bodies as provided in this Constitution. National Secretaries participate in the electoral college for the selection of the National President."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "State Level",
+      "articles": [
+        {
+          "no": "7.1",
+          "title": "State President",
+          "content": "Each state has a State President, who leads the Party in that state under the same principles of defined responsibility and limited power that apply at the national level."
+        },
+        {
+          "no": "7.2",
+          "title": "State Chairperson",
+          "content": "The State Chairperson performs, at the state level, the functions corresponding to the National Chairperson, as replicated by the state-level structure where applicable."
+        },
+        {
+          "no": "7.3",
+          "title": "State Secretary",
+          "content": "The State Secretary is responsible for the organizational and administrative work of the Party in the state."
+        },
+        {
+          "no": "7.4",
+          "title": "State Treasurer",
+          "content": "The State Treasurer is responsible for the financial records of the Party in the state, under the financial accountability framework of this Constitution."
+        },
+        {
+          "no": "7.5",
+          "title": "State Committee",
+          "content": "The State Committee performs, at the state level, the coordination functions corresponding to the National Committee."
+        },
+        {
+          "no": "7.6",
+          "title": "Application of National Provisions",
+          "content": "Where a matter is not separately provided for at the state level, the corresponding national provision applies, adapted to the state, so that the state structure replicates the national structure where applicable."
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Election, Appointment and Consensus Procedures",
+      "articles": [
+        {
+          "no": "8.1",
+          "title": "Appointment Methods",
+          "content": "Constitutional positions are filled through the following methods, as specified for each position by this Constitution: Election; Electoral College; Appointment; Joint Appointment; Provisional Appointment; and Committee Selection. A position shall be filled only through the method prescribed for it."
+        },
+        {
+          "no": "8.2",
+          "title": "Election",
+          "content": "Positions filled by election are decided by the vote of the electorate specified for that position. The National Party Leader, for example, is elected by a majority vote of the sitting CPP Members of Parliament."
+        },
+        {
+          "no": "8.3",
+          "title": "Electoral College",
+          "content": "Positions filled through an electoral college are decided by the members of the college specified for that position. The National President is selected through an electoral college consisting of the sitting CPP Members of Parliament and the 35 National Secretaries."
+        },
+        {
+          "no": "8.4",
+          "title": "Appointment",
+          "content": "Positions filled by appointment are decided by the appointing authority specified for that position, exercising the power within the limits defined in this Constitution."
+        },
+        {
+          "no": "8.5",
+          "title": "Joint Appointment and Consensus",
+          "content": "Positions filled by joint appointment require consensus between the designated constitutional authorities. The National Chairperson is appointed through consensus between the National President and the National Party Leader; where consensus cannot be reached, the fallback mechanism specified in this Constitution applies."
+        },
+        {
+          "no": "8.6",
+          "title": "Provisional Appointments",
+          "content": "Where the prescribed electoral conditions do not yet exist, the provisional appointment provision of this Constitution applies. Before the Party has sitting Members of Parliament, the National Party Leader is filled through the provisional founder-appointed arrangement."
+        },
+        {
+          "no": "8.7",
+          "title": "Committee Selection",
+          "content": "Positions filled by committee selection are decided by the constitutional committee specified for that position, through the procedure prescribed in this Constitution."
+        },
+        {
+          "no": "8.8",
+          "title": "No Override of Constitutional Methods",
+          "content": "No internal process, digital system or administrative workflow may override, modify or substitute the appointment method prescribed by this Constitution for any position. Administrative systems shall implement, and not alter, the constitutional procedures."
+        }
+      ]
+    },
+    {
+      "no": 9,
+      "title": "Duties, Powers and Accountability",
+      "articles": [
+        {
+          "no": "9.1",
+          "title": "Defined Responsibility of Office Holders",
+          "content": "Every office holder shall exercise only the responsibilities defined for their office in this Constitution, and shall account for their exercise."
+        },
+        {
+          "no": "9.2",
+          "title": "Limited Power",
+          "content": "No office holder shall exercise power beyond the provisions of this Constitution. Actions beyond the defined limits are without constitutional authority."
+        },
+        {
+          "no": "9.3",
+          "title": "Continuous Public Accountability",
+          "content": "The proceedings, records and decisions of the Party's offices shall be maintained so as to enable continuous public accountability. The Party shall maintain registers of membership, applications, selections and appointments."
+        },
+        {
+          "no": "9.4",
+          "title": "Official Communications",
+          "content": "Official communications concerning appointments and selections shall be issued to the member's registered address, including the registered email address, and shall carry the reference number of the relevant application and appointment record."
+        }
+      ]
+    },
+    {
+      "no": 10,
+      "title": "Records, Discipline and Administration",
+      "articles": [
+        {
+          "no": "10.1",
+          "title": "Membership Records",
+          "content": "The Party shall maintain a secure register of members, including verification status, membership status and official communications."
+        },
+        {
+          "no": "10.2",
+          "title": "Discipline",
+          "content": "Violations of this Constitution and the internal rules are dealt with through the disciplinary procedure provided in the internal rules. Every disciplinary action shall be recorded with its reasons."
+        },
+        {
+          "no": "10.3",
+          "title": "Audit",
+          "content": "The administrative systems of the Party shall record important administrative actions in an audit log, identifying the acting administrator, the action, the target record and the time of the action."
+        }
+      ]
+    },
+    {
+      "no": 11,
+      "title": "Interpretation and Amendment",
+      "articles": [
+        {
+          "no": "11.1",
+          "title": "Interpretation",
+          "content": "This Constitution is interpreted as a whole, in accordance with its principles of Defined Responsibility, Limited Power and Continuous Public Accountability."
+        },
+        {
+          "no": "11.2",
+          "title": "Amendment",
+          "content": "This Constitution may be amended only through the constitutional amendment procedure, and amendments take effect only when recorded and published in the official records of the Party."
+        }
+      ]
+    }
+  ]
+}
